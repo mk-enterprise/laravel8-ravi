@@ -1,6 +1,6 @@
 <?php
 //  echo add_string('mohit', 'kumar'); 
-
+//1
 ?>
 
 <h3>Posts</h3>
