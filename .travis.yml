@@ -13,4 +13,4 @@ script:
   - vendor/bin/phpunit
 
 notifications:
-	email: kmohit312@gmail.com
+   email: kmohit312@gmail.com
